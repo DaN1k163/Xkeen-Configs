@@ -1,4 +1,4 @@
-*XKeen обновлён до версии 2.0 (06 июня 2026) — форк от [JamesZero](https://github.com/jameszeroX/XKeen).*
+*XKeen обновлён до версии 2.1 (06 октября 2026) — форк от [JamesZero](https://github.com/jameszeroX/XKeen).*
 
 <details>
 <summary>Подробное описание изменений форка по сравнению с оригинальным XKeen:</summary>
